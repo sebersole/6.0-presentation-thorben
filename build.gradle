@@ -1,0 +1,16 @@
+plugins {
+    id 'java'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'org.hibernate.orm:hibernate-core:6.0.0.CR1'
+    testImplementation 'org.hibernate.orm:hibernate-testing:6.0.0.CR1'
+    testRuntimeOnly 'com.h2database:h2:1.4.197'
+    testRuntimeOnly 'org.apache.logging.log4j:log4j-core:2.17.1'
+
+
+}

@@ -1,2 +1,3 @@
-# 6.0-presentation-thorben
-Code samples for use in 6.0 presentation with Thorben
+# Hibernate ORM 6.0 Presentation
+
+Code samples for use presentation on Hibernate ORM 6.0
